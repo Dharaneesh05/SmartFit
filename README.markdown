@@ -65,14 +65,22 @@ npm run start
 
 ## Screenshots
 
+### SignUp / Login
+![Homepage Screenshot](screenshots/signup.png)
+
+![Fit Analysis Screenshot](screenshots/login.png)
+
 ### Homepage
 ![Homepage Screenshot](screenshots/homepage.png)
 
-### Fit Analysis
-![Fit Analysis Screenshot](screenshots/fit-analysis.png)
+### Body Measurement Interface
+![Fit Analysis Screenshot](screenshots/measurementinterface.png)
 
-### Chatbot Interface
-![Chatbot Screenshot](screenshots/chatbot.png)
+### Fit Prediction
+![Chatbot Screenshot](screenshots/fitpredict.png)
+
+### Personalized Recommendations
+![Chatbot Screenshot](screenshots/recommendations.png)
 
 ## Contributing
 
