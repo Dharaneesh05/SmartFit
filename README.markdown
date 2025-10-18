@@ -12,7 +12,7 @@ SmartFit is an AI-powered chatbot application designed to reduce online shopping
 
 ## Tech Stack
 
-- **Frontend**: Built with HTML, CSS, and JavaScript for an interactive user interface.
+- **Frontend**: Built with HTML, CSS, and JavaScript, TypeScript for an interactive user interface.
 - **Backend**: Python with Flask handling API endpoints, AI model integration, and data processing.
 - **Database**: MongoDB for storing user data, measurements, products, and recommendations.
 - **AI/ML Tools**: NLP, YOLO, OpenCV, and MediaPipe for advanced fit analysis.
